@@ -1,0 +1,59 @@
+.hd{
+    border:none;
+    border-radius: 0px;
+    background-color:#461B7E;
+}
+
+.navbar-inverse .navbar-brand{
+    color:white;
+}
+
+.navbar-inverse .container .navbar-nav li a{
+    color:white;
+    font-size: 18px;
+} 
+.ss{
+    top: -20px;
+}
+.ac{
+    background-color:#46658f;
+    padding:10px 0px;
+}
+.ab{
+    color:white;
+    text-decoration:underline;
+    text-align: center;
+}
+.qq{
+    color:white;
+}
+.pp1{
+    font-size:18px;
+}
+.ftr{
+    background-color:#46658f;
+    padding:20px 0px;
+    color:white;
+
+}
+.tra input{
+    background-color: transparent;
+}
+.tra input:focus{
+    background-color: white;
+}
+.sd{
+    background-color:#449044;
+}
+.lnav li a{
+    color: white;
+    font-size:20px;
+    background-color: transparent;
+    transition: 0.5s;
+}
+.lnav li a:hover{
+    color:white;
+    margin-left: 10px;
+    font-size: 20px;
+    background-color: transparent;
+}
